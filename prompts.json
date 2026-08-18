@@ -52,5 +52,14 @@
     "category": "3D Art",
     "createdAt": 1723921368000,
     "date": "18 Aug 2026"
+  },
+  {
+    "id": "7",
+    "title": "AI Model Prompt 7",
+    "imageUrl": "https://i.pinimg.com/1200x/7f/fe/1d/7ffe1dda57c7ea16d2ec256cc6645848.jpg",
+    "promptText": "Paste your detailed prompt text here...",
+    "category": "3D Art",
+    "createdAt": 1723921368000,
+    "date": "18 Aug 2026"
   }
 ]
