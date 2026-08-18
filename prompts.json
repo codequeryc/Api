@@ -25,5 +25,32 @@
     "category": "3D Art",
     "createdAt": 1723921368000,
     "date": "18 Aug 2026"
+  },
+  {
+    "id": "4",
+    "title": "AI Model Prompt 4",
+    "imageUrl": "https://i.pinimg.com/736x/1a/83/08/1a8308847c14887a807a9f0557058fec.jpg",
+    "promptText": "Paste your detailed prompt text here...",
+    "category": "3D Art",
+    "createdAt": 1723921368000,
+    "date": "18 Aug 2026"
+  },
+  {
+    "id": "5",
+    "title": "AI Model Prompt 5",
+    "imageUrl": "https://i.pinimg.com/1200x/8a/f4/21/8af421a7f1b3f1f3b732fa1a4e0484e5.jpg",
+    "promptText": "Paste your detailed prompt text here...",
+    "category": "3D Art",
+    "createdAt": 1723921368000,
+    "date": "18 Aug 2026"
+  },
+  {
+    "id": "6",
+    "title": "AI Model Prompt 6",
+    "imageUrl": "https://i.pinimg.com/1200x/49/d7/06/49d7065c5615a79716b904c4db4b64b8.jpg",
+    "promptText": "Paste your detailed prompt text here...",
+    "category": "3D Art",
+    "createdAt": 1723921368000,
+    "date": "18 Aug 2026"
   }
 ]
