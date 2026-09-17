@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 999,
+  "versionName": "99.0.0",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.integer.it.dpichanger",
-  "changelog": "• Bug fixes\n• Performance improvements",
+  "changelog": "• Bug fixes\n• Performance improvements\n• New features",
   "isForceUpdate": true
 }
