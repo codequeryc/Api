@@ -1,7 +1,7 @@
 {
   "updateEnabled": true,
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 26,
+  "versionName": "1.6.3",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.integer.it.resolutionchanger",
   "changelog": "• Bug fixes\n• Performance improvements\n• New features",
   "isForceUpdate": false
