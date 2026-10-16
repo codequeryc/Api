@@ -4,5 +4,25 @@
   "versionName": "1.6.3",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.integer.it.resolutionchanger",
   "changelog": "• Bug fixes\n• Performance improvements\n• New features",
-  "isForceUpdate": false
+  "isForceUpdate": false,
+  "lookingFor": {
+    "title": "Looking for something else?",
+    "options": [
+      {
+        "title": "How to grant permission",
+        "url": "https://youtube.com/shorts/gWyMKte7Fac?si=spwcfFVVDHBRQJKW",
+        "type": "YOUTUBE"
+      },
+      {
+        "title": "Join Telegram Support",
+        "url": "https://t.me/resolutionchanger",
+        "type": "TELEGRAM"
+      },
+      {
+        "title": "Watch Tutorial",
+        "url": "https://youtube.com/watch?v=xxxxx",
+        "type": "YOUTUBE"
+      }
+    ]
+  }
 }
