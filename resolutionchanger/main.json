@@ -19,18 +19,6 @@
         "url": "https://t.me/resolutionchanger",
         "visibility": "ALWAYS",
         "action": "TELEGRAM"
-      },
-      {
-        "title": "Watch Premium Tutorial",
-        "url": "https://youtube.com/watch?v=xxxxx",
-        "visibility": "GRANTED",
-        "action": "YOUTUBE"
-      },
-      {
-        "title": "Read Documentation",
-        "url": "https://example.com/docs",
-        "visibility": "ALWAYS",
-        "action": "WEB"
       }
     ]
   }
