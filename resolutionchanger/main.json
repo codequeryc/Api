@@ -3,7 +3,7 @@
   "versionCode": 28,
   "versionName": "1.6.5",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.integer.it.resolutionchanger",
-  "changelog": "• Bug fixes\n• Performance improvements\n• New features",
+  "changelog": "• New: FPS Meter for real-time frame tracking\n• New: Custom Crosshair — personalize your aim\n• Removed: Ruby credit system (simpler now!)\n• Bug fixes and performance improvements",
   "isForceUpdate": false,
   "lookingFor": {
     "title": "Looking for something else?",
