@@ -1,25 +1,31 @@
 {
-  "updateEnabled": true,
-  "versionCode": 28,
-  "versionName": "1.6.5",
-  "downloadUrl": "https://play.google.com/store/apps/details?id=com.integer.it.resolutionchanger",
   "changelog": "• New: FPS Meter for real-time frame tracking\n• New: Custom Crosshair — personalize your aim\n• Removed: Ruby credit system (simpler now!)\n• Bug fixes and performance improvements",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.integer.it.resolutionchanger",
   "isForceUpdate": false,
   "lookingFor": {
-    "title": "Looking for something else?",
     "options": [
       {
+        "action": "YOUTUBE",
         "title": "How to grant permission",
         "url": "https://youtube.com/shorts/gWyMKte7Fac?si=spwcfFVVDHBRQJKW",
-        "visibility": "NON",
-        "action": "YOUTUBE"
+        "visibility": "NON"
       },
       {
+        "action": "TELEGRAM",
         "title": "Join Telegram Support",
         "url": "https://t.me/resolutionchanger",
-        "visibility": "ALWAYS",
-        "action": "TELEGRAM"
+        "visibility": "ALWAYS"
+      },
+      {
+        "action": "OTHER",
+        "title": "Website",
+        "url": "https://integerit.blogspot.com/?m=1",
+        "visibility": "ALWAYS"
       }
-    ]
-  }
+    ],
+    "title": "Looking for something else?"
+  },
+  "updateEnabled": true,
+  "versionCode": 28,
+  "versionName": "1.6.5"
 }
