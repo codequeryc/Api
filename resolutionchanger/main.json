@@ -1,7 +1,7 @@
 {
-  "changelog": "• New: FPS Meter for real-time frame tracking\n• New: Custom Crosshair — personalize your aim\n• Removed: Ruby credit system (simpler now!)\n• Bug fixes and performance improvements",
+  "changelog": "What's New:\n- Removed video ads from the update mode.\n- Reduced and optimized native ad frequency.\n- Bug fixes and general performance improvements.",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.integer.it.resolutionchanger",
-  "isForceUpdate": true,
+  "isForceUpdate": false,
   "lookingFor": {
     "options": [
       {
@@ -26,6 +26,6 @@
     "title": "Looking for something else?"
   },
   "updateEnabled": true,
-  "versionCode": 28,
-  "versionName": "1.6.5"
+  "versionCode": 30,
+  "versionName": "1.6.7"
 }
