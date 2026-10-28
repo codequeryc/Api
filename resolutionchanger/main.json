@@ -1,5 +1,5 @@
 {
-  "changelog": "- Removed video ads from the update mode.\n- Reduced and optimized native ad frequency.\n- Bug fixes and general performance improvements.",
+  "changelog": "- Fixed an issue where premium subscribers saw ads on startup.",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.integer.it.resolutionchanger",
   "isForceUpdate": false,
   "lookingFor": {
@@ -26,6 +26,6 @@
     "title": "Looking for something else?"
   },
   "updateEnabled": true,
-  "versionCode": 30,
-  "versionName": "1.6.7"
+  "versionCode": 31,
+  "versionName": "1.6.8"
 }
